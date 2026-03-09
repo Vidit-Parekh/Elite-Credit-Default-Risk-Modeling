@@ -12,7 +12,7 @@
 > **End-to-end credit risk system** — from raw data to a deployed FICO-style scorecard and Monte Carlo portfolio simulator.  
 > Built the way banks actually do it: WoE encoding, statistical logistic regression, Basel II expected loss framework.
 
-🔗 **Live Demo →[LINK](https://elite-credit-default-risk-modeling-cgcud3q8eea8hvdvxrlqv9.streamlit.app/](https://elite-credit-default-risk-modeling-cgcud3q8eea8hvdvxrlqv9.streamlit.app/))**
+🔗 **Live Demo →[LINK](https://elite-credit-default-risk-modeling-cgcud3q8eea8hvdvxrlqv9.streamlit.app/))**
 
 ---
 
