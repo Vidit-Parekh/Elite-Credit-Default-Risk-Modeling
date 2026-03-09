@@ -1,0 +1,12 @@
+Feature,χ²-stat,p-value,Reject H0,Cramér V,Effect Size
+checking_account,123.72,0.0,True,0.3517,Medium
+credit_history,61.69,0.0,True,0.2484,Small
+purpose,33.36,0.0001,True,0.1826,Small
+savings_account,36.1,0.0,True,0.19,Small
+employment_years,18.37,0.001,True,0.1355,Small
+personal_status,9.61,0.0222,True,0.098,Negligible
+other_debtors,6.65,0.0361,True,0.0815,Negligible
+property,23.72,0.0,True,0.154,Small
+other_installments,12.84,0.0016,True,0.1133,Small
+housing,18.67,0.0001,True,0.1367,Small
+foreign_worker,5.82,0.0158,True,0.0763,Negligible

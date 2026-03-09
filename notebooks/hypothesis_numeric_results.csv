@@ -1,0 +1,6 @@
+Feature,U-stat,p-value,Reject H0,Effect r,Effect Size
+duration_months,77995.5,0.0,True,0.2572,Small
+credit_amount,93480.0,0.0059,True,0.1097,Small
+age,119971.5,0.0003,True,-0.1426,Small
+installment_rate,95889.5,0.0199,True,0.0868,Negligible
+residence_years,104680.5,0.9358,False,0.003,Negligible
