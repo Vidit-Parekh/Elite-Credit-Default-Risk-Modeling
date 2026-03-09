@@ -165,7 +165,7 @@ st.markdown("""
 def load_and_prepare():
     """Load data, WoE-encode, train LR model. Returns everything needed."""
     try:
-        data = pd.read_csv('/home/vidit/Public/Project/Customer Churn Prediction/Data/german_credit_data.csv')
+        data = pd.read_csv('./Data/german_credit_data.csv')
     except FileNotFoundError:
         # Fallback: try common paths
         import os
